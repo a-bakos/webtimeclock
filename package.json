@@ -1,0 +1,11 @@
+{
+    "name": "isaacdew.webtimeclock",
+    "title": "In-Editor Time Clock",
+    "description": "Track your time developing for pricing calculations right in your text editor. No more checking the clock.",
+    "homepage": "https://github.com/isaacdew/webtimeclock",
+    "version": "1.0.1",
+    "author": "Isaac Dew <lildew2@gmail.com> (http://murmuring-journey-28221.herokuapp.com)",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}

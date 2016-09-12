@@ -1,0 +1,34 @@
+
+.bottom-panel .helloworld-panel {
+    position: fixed;
+    bottom: 15px;
+    left: 60%;
+    width: 400px;
+    color: black;
+}
+.display {
+    position: relative;
+    top: 10px;
+    left: 185px;
+    width: 200px;
+    background-color: #ffffff;
+    color: grey;
+    height: 20px;
+}
+#timer div {
+    display: inline-block;
+}
+
+.button {
+    position: relative;
+    left: -210px;
+    top: 10px;
+    background-color: #346fa1;
+    border: none;
+    margin-left: 15px;
+    padding: 8px;
+    color: #ffffff;
+}
+button:hover {
+    background-color: #275379;
+}
