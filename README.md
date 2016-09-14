@@ -7,7 +7,7 @@ The web time clock is a tool for developers to track development time in their t
 INSTALLATION
 ------------
 
--This extension can be directly installed from the Brackets extension
+-This extension can be directly installed from the Brackets extension manager
 
 -To install manually, download the .zip file from https://github.com/isaacdew/webtimeclock/ or look for In-Editor Time Clock on https://brackets-registry.aboutweb.com and extract the folder to  C:\Users\YourUser\AppData\Roaming\Brackets\extensions\user\
 
