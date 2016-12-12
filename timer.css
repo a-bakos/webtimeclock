@@ -1,3 +1,6 @@
+.bottom-panel {
+    background: rgb(50,50,50);
+}
 .bottom-panel .helloworld-panel {
     position: fixed;
     bottom: 15px;
