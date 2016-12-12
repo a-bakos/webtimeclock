@@ -1,5 +1,7 @@
 Web Time Clock version 2.0.0 12/12/2016
 
+![Timer](https://cloud.githubusercontent.com/assets/11914422/21096030/005282b8-c056-11e6-94c6-4517ffff650f.png)
+
 DESCRIPTION
 ------------
 The web time clock is a tool for developers to track development time in their text editor. In future updates, this tool will allow developers to associate their time with a project and save it to a database which will have an in-browser dashboard.
