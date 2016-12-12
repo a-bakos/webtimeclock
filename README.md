@@ -1,4 +1,4 @@
-Web Time Clock version 1.0.1 09/12/2016
+Web Time Clock version 2.0.0 12/12/2016
 
 DESCRIPTION
 ------------
